@@ -1,8 +1,8 @@
 ### Olá! Me chamo Felipe Freire.
 
 - 🔭 Desenvolvedor Front-End
-- 🌱 Estudando Node.JS
-- ⚡ Estudante de Sistemas para Internet.
+- 💻 Programador Node.JS
+- 📚 Estudante de Sistemas para Internet.
 - 🧑 Jogo bola e danço nas horas vagas.
 
 <div align="center">
