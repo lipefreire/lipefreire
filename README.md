@@ -35,7 +35,7 @@
  
   ##
     
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lipefreire.visitor-badge&left_text=MyPageVisitors)
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lipefreire.visitor-badge&left_text=Visualizações No Perfil )
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
