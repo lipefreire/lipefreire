@@ -2,8 +2,6 @@
 
 - 🔭 Desenvolvedor Back-End
 - 💻 Programador Node.JS
-- 📚 Estudante de Sistemas para Internet.
-- 🧑 Jogo bola e danço nas horas vagas.
 
 <div align="center">
   <a href="https://github.com/lipefreire">
