@@ -32,8 +32,6 @@
   <a href="https://www.linkedin.com/in/felipe-freire-40a130242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ##
-    
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lipefreire.visitor-badge&left_text=Visualizações)
  
 </div>
 
