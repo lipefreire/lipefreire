@@ -1,6 +1,6 @@
 ### Olá! Me chamo Felipe Freire.
 
-- 🔭 Desenvolvedor Back-End
+- 🔭 Desenvolvedor Full Stack
 - 💻 Programador Node.JS
 
 <div align="center">
