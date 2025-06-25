@@ -1,7 +1,7 @@
 ### Olá! Me chamo Felipe Freire.
 
 - 🔭 Desenvolvedor Full Stack
-- 💻 Programador Node.JS
+- 💻 Programador React / Node.JS
 
 <div align="center">
   <a href="https://github.com/lipefreire">
